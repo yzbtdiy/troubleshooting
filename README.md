@@ -4,3 +4,6 @@
 
 * [新版 VMware 安装 Win7/Server 2008 无法安装 VMTools](virtualization/win7_vmtools_sha2_code_signing.md)
 
+### Linux
+
+* [Linux 删除系统安装时自动创建的 swap 分区](linux/delete_the_swap_partition_during_system_installation.md)
